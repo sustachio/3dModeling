@@ -1,0 +1,1 @@
+This was a project from a few years back. It is a raymarching based 3D modeling + rendering software. The raymarcher is written in GLSL and the GUI in C++. I will update this page shortly with images+videos.
