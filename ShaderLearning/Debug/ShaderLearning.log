@@ -1,0 +1,3 @@
+﻿Source.obj : error LNK2019: unresolved external symbol _glfwInit referenced in function _main
+Source.obj : error LNK2019: unresolved external symbol _glfwWindowHint referenced in function _main
+C:\Users\Seth Mueller\source\repos\ShaderLearning\Debug\ShaderLearning.exe : fatal error LNK1120: 2 unresolved externals
